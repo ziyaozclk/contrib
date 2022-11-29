@@ -4,10 +4,10 @@ go 1.17
 
 require (
 	github.com/go-openapi/loads v0.21.1
-	github.com/go-openapi/runtime v0.23.2
+	github.com/go-openapi/runtime v0.25.0
 	github.com/gofiber/fiber/v2 v2.29.0
 	github.com/gorilla/handlers v1.5.1
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.8.0
 	github.com/valyala/fasthttp v1.34.0
 )
 
@@ -37,8 +37,8 @@ require (
 	github.com/valyala/tcplisten v1.0.0 // indirect
 	go.mongodb.org/mongo-driver v1.8.3 // indirect
 	golang.org/x/net v0.0.0-20220225172249-27dd8689420f // indirect
-	golang.org/x/sys v0.0.0-20220227234510-4e6760a101f9 // indirect
+	golang.org/x/sys v0.0.0-20220919091848-fb04ddd9f9c8 // indirect
 	golang.org/x/text v0.3.7 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
